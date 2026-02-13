@@ -13,7 +13,7 @@ This repository houses my solutions and practice across Python, C++, and C, focu
 
 ### 🐍 Python (OOP & Projects)
 - **Vectors**: Operator overloading for n-dimensional math.
-- **Projects**: [The Perfect Guess](./Vs_Code_Practice/projrct2.py) game.
+- **Projects**: [The Perfect Guess](./Vs_Code_Practice/project2.py) game.
 
 ### 🔵 C++ / C (Placement Prep)
 - **Foundations**: Practice files for basic syntax and data structures.
